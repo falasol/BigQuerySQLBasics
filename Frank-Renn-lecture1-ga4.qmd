@@ -208,5 +208,6 @@ ORDER BY event_date;
 ![Query 9 BigQuery result](screenshots/img9.png)
 
 ## Project links
+BigQuerySQLBasics
 - GitHub repository: [BigQuery SQL Basics on GitHub](https://github.com/falasol/BigQuerySQLBasics)  
-- Published GitHub Pages report: [BigQuery SQL Basics HTML report](https://falasol.github.io/BigQuerySQLBasics/Frank-Renn-lecture1-ga4.html.html)
+- Published GitHub Pages report: [BigQuery SQL Basics HTML report](https://falasol.github.io/BigQuerySQLBasics/Frank-Renn-lecture1-ga4.html)
